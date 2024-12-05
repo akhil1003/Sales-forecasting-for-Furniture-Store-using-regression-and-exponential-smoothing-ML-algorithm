@@ -1,0 +1,1 @@
+# Sales-forecasting-for-Furniture-Store-using-regression-and-exponential-smoothing-ML-algorithm
